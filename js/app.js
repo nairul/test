@@ -29,8 +29,8 @@
       })
 
     lockProvider.init({
-      clientID: 'dFMA0AqqccHHwGiNkKpvzxxw2Xplywyp',
-      domain: 'nairul.auth0.com'
+      clientID: 'Zuev5acHjyPROS9MnavRigamFueQFIRb',
+      domain: 'gabook.auth0.com'
     });
 
     $urlRouterProvider.otherwise('/home');
